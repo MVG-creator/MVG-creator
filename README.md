@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Azure: Creating Virutal Machine](https://github.com/MVG-creator/CreatingVM)
+  - [Azure: Creating Virutal Machine](https://github.com/MVG-creator/Virtual-Network)
   - [osTicket: Post-Installation Configuration](https://github.com/MVG-creator/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MVG-creator/ticket-lifecycle)
 - <b>Microsoft Azure</b>
