@@ -12,7 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/MarkGriggs
+[linkedin]: https://www.linkedin.com/in/mark-griggs-08560735a/
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
