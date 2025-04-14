@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Creating a Virutal Machine in Azure}//github.com/MVG-creator/osticket-prereqs)
+  - [Creating a Virutal Machine in Azure}//github.com/MVG-creator/)
   - [osTicket: Post-Installation Configuration](https://github.com/MVG-creator/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MVG-creator/ticket-lifecycle)
 - <b>Microsoft Azure</b>
